@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inakitrapiella/Preentrega1_trapiella.git/static/css/main.f855e6bc.css",
+    "main.js": "/inakitrapiella/Preentrega1_trapiella.git/static/js/main.8dc32017.js",
+    "static/js/787.866a9283.chunk.js": "/inakitrapiella/Preentrega1_trapiella.git/static/js/787.866a9283.chunk.js",
+    "index.html": "/inakitrapiella/Preentrega1_trapiella.git/index.html",
+    "main.f855e6bc.css.map": "/inakitrapiella/Preentrega1_trapiella.git/static/css/main.f855e6bc.css.map",
+    "main.8dc32017.js.map": "/inakitrapiella/Preentrega1_trapiella.git/static/js/main.8dc32017.js.map",
+    "787.866a9283.chunk.js.map": "/inakitrapiella/Preentrega1_trapiella.git/static/js/787.866a9283.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8dc32017.js"
+  ]
+}
